@@ -1,0 +1,12 @@
+D:\Haresh\SEM_IV\AWD\HareshForms1\bin\Release\HareshForms1.exe.config
+D:\Haresh\SEM_IV\AWD\HareshForms1\bin\Release\HareshForms1.exe
+D:\Haresh\SEM_IV\AWD\HareshForms1\bin\Release\HareshForms1.pdb
+D:\Haresh\SEM_IV\AWD\HareshForms1\obj\Release\HareshForms1.csproj.AssemblyReference.cache
+D:\Haresh\SEM_IV\AWD\HareshForms1\obj\Release\HareshForms1.csproj.SuggestedBindingRedirects.cache
+D:\Haresh\SEM_IV\AWD\HareshForms1\obj\Release\HareshForms1.Form1.resources
+D:\Haresh\SEM_IV\AWD\HareshForms1\obj\Release\HareshForms1.login.resources
+D:\Haresh\SEM_IV\AWD\HareshForms1\obj\Release\HareshForms1.Properties.Resources.resources
+D:\Haresh\SEM_IV\AWD\HareshForms1\obj\Release\HareshForms1.csproj.GenerateResource.cache
+D:\Haresh\SEM_IV\AWD\HareshForms1\obj\Release\HareshForms1.csproj.CoreCompileInputs.cache
+D:\Haresh\SEM_IV\AWD\HareshForms1\obj\Release\HareshForms1.exe
+D:\Haresh\SEM_IV\AWD\HareshForms1\obj\Release\HareshForms1.pdb
