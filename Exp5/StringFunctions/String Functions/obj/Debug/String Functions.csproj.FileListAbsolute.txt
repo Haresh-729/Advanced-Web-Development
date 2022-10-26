@@ -1,0 +1,19 @@
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\bin\Debug\String Functions.exe.config
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\bin\Debug\String Functions.exe
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\bin\Debug\String Functions.pdb
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\obj\Debug\String Functions.csproj.AssemblyReference.cache
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\obj\Debug\String Functions.csproj.SuggestedBindingRedirects.cache
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\obj\Debug\String_Functions.Form1.resources
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\obj\Debug\String_Functions.Properties.Resources.resources
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\obj\Debug\String Functions.csproj.GenerateResource.cache
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\obj\Debug\String Functions.csproj.CoreCompileInputs.cache
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\obj\Debug\String Functions.exe
+D:\Haresh\SEM_IV\AWD\Exp5\String Functions\obj\Debug\String Functions.pdb
+D:\IV Sem\Exp5\String Functions\obj\Debug\String Functions.csproj.AssemblyReference.cache
+D:\IV Sem\Exp5\String Functions\obj\Debug\String Functions.csproj.SuggestedBindingRedirects.cache
+D:\IV Sem\Exp5\String Functions\obj\Debug\String_Functions.Form1.resources
+D:\IV Sem\Exp5\String Functions\obj\Debug\String_Functions.Properties.Resources.resources
+D:\IV Sem\Exp5\String Functions\obj\Debug\String Functions.csproj.GenerateResource.cache
+D:\IV Sem\Exp5\String Functions\obj\Debug\String Functions.csproj.CoreCompileInputs.cache
+D:\IV Sem\Exp5\String Functions\obj\Debug\String Functions.exe
+D:\IV Sem\Exp5\String Functions\obj\Debug\String Functions.pdb

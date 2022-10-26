@@ -1,0 +1,22 @@
+E:\Exp6\Exp6\bin\Debug\Exp6.exe.config
+E:\Exp6\Exp6\bin\Debug\Exp6.exe
+E:\Exp6\Exp6\bin\Debug\Exp6.pdb
+E:\Exp6\Exp6\obj\Debug\Exp6.csproj.AssemblyReference.cache
+E:\Exp6\Exp6\obj\Debug\Exp6.csproj.SuggestedBindingRedirects.cache
+E:\Exp6\Exp6\obj\Debug\Exp6.Form1.resources
+E:\Exp6\Exp6\obj\Debug\Exp6.Properties.Resources.resources
+E:\Exp6\Exp6\obj\Debug\Exp6.csproj.GenerateResource.cache
+E:\Exp6\Exp6\obj\Debug\Exp6.csproj.CoreCompileInputs.cache
+E:\Exp6\Exp6\obj\Debug\Exp6.exe
+E:\Exp6\Exp6\obj\Debug\Exp6.pdb
+F:\IV Sem\Exp6\Exp6\bin\Debug\Exp6.exe.config
+F:\IV Sem\Exp6\Exp6\bin\Debug\Exp6.exe
+F:\IV Sem\Exp6\Exp6\bin\Debug\Exp6.pdb
+F:\IV Sem\Exp6\Exp6\obj\Debug\Exp6.csproj.AssemblyReference.cache
+F:\IV Sem\Exp6\Exp6\obj\Debug\Exp6.csproj.SuggestedBindingRedirects.cache
+F:\IV Sem\Exp6\Exp6\obj\Debug\Exp6.Form1.resources
+F:\IV Sem\Exp6\Exp6\obj\Debug\Exp6.Properties.Resources.resources
+F:\IV Sem\Exp6\Exp6\obj\Debug\Exp6.csproj.GenerateResource.cache
+F:\IV Sem\Exp6\Exp6\obj\Debug\Exp6.csproj.CoreCompileInputs.cache
+F:\IV Sem\Exp6\Exp6\obj\Debug\Exp6.exe
+F:\IV Sem\Exp6\Exp6\obj\Debug\Exp6.pdb
