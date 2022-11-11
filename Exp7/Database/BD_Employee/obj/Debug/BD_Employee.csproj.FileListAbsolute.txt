@@ -1,0 +1,22 @@
+D:\AWD practice\BD_Employee\BD_Employee\bin\Debug\BD_Employee.exe.config
+D:\AWD practice\BD_Employee\BD_Employee\bin\Debug\BD_Employee.exe
+D:\AWD practice\BD_Employee\BD_Employee\bin\Debug\BD_Employee.pdb
+D:\AWD practice\BD_Employee\BD_Employee\obj\Debug\BD_Employee.csproj.AssemblyReference.cache
+D:\AWD practice\BD_Employee\BD_Employee\obj\Debug\BD_Employee.csproj.SuggestedBindingRedirects.cache
+D:\AWD practice\BD_Employee\BD_Employee\obj\Debug\BD_Employee.Form1.resources
+D:\AWD practice\BD_Employee\BD_Employee\obj\Debug\BD_Employee.Properties.Resources.resources
+D:\AWD practice\BD_Employee\BD_Employee\obj\Debug\BD_Employee.csproj.GenerateResource.cache
+D:\AWD practice\BD_Employee\BD_Employee\obj\Debug\BD_Employee.csproj.CoreCompileInputs.cache
+D:\AWD practice\BD_Employee\BD_Employee\obj\Debug\BD_Employee.exe
+D:\AWD practice\BD_Employee\BD_Employee\obj\Debug\BD_Employee.pdb
+D:\AWD\BD_Employee\BD_Employee\bin\Debug\BD_Employee.exe.config
+D:\AWD\BD_Employee\BD_Employee\bin\Debug\BD_Employee.exe
+D:\AWD\BD_Employee\BD_Employee\bin\Debug\BD_Employee.pdb
+D:\AWD\BD_Employee\BD_Employee\obj\Debug\BD_Employee.csproj.AssemblyReference.cache
+D:\AWD\BD_Employee\BD_Employee\obj\Debug\BD_Employee.csproj.SuggestedBindingRedirects.cache
+D:\AWD\BD_Employee\BD_Employee\obj\Debug\BD_Employee.Form1.resources
+D:\AWD\BD_Employee\BD_Employee\obj\Debug\BD_Employee.Properties.Resources.resources
+D:\AWD\BD_Employee\BD_Employee\obj\Debug\BD_Employee.csproj.GenerateResource.cache
+D:\AWD\BD_Employee\BD_Employee\obj\Debug\BD_Employee.csproj.CoreCompileInputs.cache
+D:\AWD\BD_Employee\BD_Employee\obj\Debug\BD_Employee.exe
+D:\AWD\BD_Employee\BD_Employee\obj\Debug\BD_Employee.pdb
